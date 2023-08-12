@@ -1,5 +1,4 @@
 body{
-    background-color: rgb(237, 237, 1);
     padding: 0px;
     margin: 0px;
 }
@@ -10,7 +9,6 @@ body{
 #first h1,p{
     margin: auto;
     text-align: center;
-    color: white;
 }
 #first p{
     width: 70px;
